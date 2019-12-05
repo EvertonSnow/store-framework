@@ -30,7 +30,9 @@
     ]
   },
   "produc-price": {
+    "props": {
     "showSavings": true,
     "showListPrice": true
+    }
   }
  }
